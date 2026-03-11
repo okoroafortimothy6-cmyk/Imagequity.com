@@ -1,13 +1,13 @@
 # Imagequity.com
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head> <link rel="stylesheet" href="style.css">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ImageQuity - Home</title>
   <link rel="stylesheet" href="style.css">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-</head>
+</head> <link rel="stylesheet" href="style.css">
 <body>
   <header>
     <nav>
@@ -63,7 +63,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ImageQuity - About</title>
   <link rel="stylesheet" href="style.css">
-</head>
+</head> <link rel="stylesheet" href="style.css">
 <body>
   <header>
     <nav>
@@ -97,7 +97,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ImageQuity - Services</title>
   <link rel="stylesheet" href="style.css">
-</head>
+</head> <link rel="stylesheet" href="style.css">
 <body>
   <header>
     <nav>
@@ -141,12 +141,12 @@
 </html>
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head> <link rel="stylesheet" href="style.css">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ImageQuity - Blog</title>
   <link rel="stylesheet" href="style.css">
-</head>
+</head> <link rel="stylesheet" href="style.css">
 <body>
   <header>
     <nav>
@@ -189,7 +189,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ImageQuity - Contact</title>
   <link rel="stylesheet" href="style.css">
-</head>
+</head> <link rel="stylesheet" href="style.css">
 <body>
   <header>
     <nav>
